@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "name": "Airpods Headphones",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 99.99,
+    "rating": 4.5,
+    "imageUrl": "https://talhareviews.store/cdn/shop/files/black.jpg?v=1702708273"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "brand": "JBL",
+    "price": 49.99,
+    "rating": 4.0,
+    "imageUrl": "https://i5.walmartimages.com/seo/JBL-Charge-5-Portable-Waterproof-Speaker-with-Powerbank-Grey_84f345f6-2489-4b31-8db0-95aa2ece8a8b.43060a0950659f39b5a555de523fa5e0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Adidas",
+    "price": 119.99,
+    "rating": 4.2,
+    "imageUrl": "https://i.pinimg.com/736x/41/9d/b8/419db887db8cd173efcf6dda8300f139.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 499.99,
+    "rating": 4.8,
+    "imageUrl": "https://pngimg.com/uploads/iphone_13/iphone_13_PNG27.png"
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "brand": "Adidas",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4s8KPd-iFbr5I-KDVFoZF7PMYiOaQExc8A&s"
+  },  {
+    "id": 6,
+    "name": "Nike Running Shoes",
+    "category": "Footwear",
+    "brand": "Nike",
+    "price": 139.99,
+    "rating": 4.7,
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/9fcefc9f-b603-4dca-8dba-bc08b1b98d4c/W+NIKE+REVOLUTION+7+WIDE.png"
+  },  {
+    "id": 7,
+    "name": "Winter hat ",
+    "category": "Hats",
+    "brand": "North Face",
+    "price": 29.99,
+    "rating": 4.7,
+    "imageUrl": "https://i5.walmartimages.com/seo/OZERO-Knit-Beanie-Winter-Hat-Thermal-Polar-Fleece-Snow-Skull-Cap-for-Men-and-Women-Black_75e89170-4be1-497c-9c7e-adffdbb99d2c.142e7d60855e2de2cee6535c0ff5c0b8.jpeg"
+  },  {
+    "id": 8,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqf6dbZdrI8EgvMsOGzTB3Ga9HUyJTvZ4f_g&s"
+  },  {
+    "id": 9,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 10,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 11,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 12,
+    "name": "Outdoor Bag",
+    "category": "Accessories",
+    "brand": "North Face",
+    "price": 89.99,
+    "rating": 4.7,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-KWNu6BjsSVszADIQm0E0mQduPsEWYvYcw&s"
+  },  {
+    "id": 13,
+    "name": "Leather Bracelet",
+    "category": "Accessories",
+    "brand": "North Face",
+    "price": 19.99,
+    "rating": 4.7,
+    "imageUrl": "https://static.yoursurprise.com/galleryimage/b4/b4e673c9c7165d2eb8e6888b4ee37bdc/luxurious-double-leather-bracelet-with-engraving-men-brown-m.png?width=900&crop=1%3A1&bg-color=ffffff&format=jpg"
+  },  {
+    "id": 14,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 15,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 16,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 17,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 259.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 18,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 19,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 20,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 119.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 21,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 199.99,
+    "rating": 2.0,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 22,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 23,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 89.99,
+    "rating": 2.5,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 24,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 299.99,
+    "rating": 3.7,
+    "imageUrl": "https://threadfellows.com/cdn/shop/products/north-face-outerwear-s-black-the-north-face-men-s-dryvent-rain-jacket-13623625351191_845x890.jpg?v=1584018536"
+  },  {
+    "id": 25,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "brand": "North Face",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://www.pngarts.com/files/3/Leather-Jacket-PNG-Download-Image.png"
+  }
+]
